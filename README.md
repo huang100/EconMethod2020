@@ -12,6 +12,8 @@
 1.  [Lecture 1](./lecture1.do).
 1.  [Lecture 2]...
 
+-------------------
+
 # Stata programming basics
 ### Module 1
 1.  [Lecture note](./stata%20programming%20basics.html).
