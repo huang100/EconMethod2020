@@ -17,5 +17,5 @@
 # Stata programming basics
 ### Module 1
 1.  [Lecture note](./stata%20programming%20basics.html).
-1.  [Lecture 1](./programming%20bascis.do).
+1.  [Stata code](./programming%20bascis.do).
 
