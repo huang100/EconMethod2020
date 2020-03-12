@@ -2,7 +2,8 @@
 
 ### 线上课件（html文件,较为简略）:
 1.  [Lecture 1](./lecture1.html).
-1.  [Lecture 2]...
+1.  [Lecture 2](./lecture2.html).
+1.  [Lecture 3](./lecture3.html).
 
 ### 完整课件（pdf文件）:
 1.  [Lecture 0](./Lecture0.pdf).
@@ -10,7 +11,8 @@
 
 ### Stata codes(do文件):
 1.  [Lecture 1](./lecture1.do).
-1.  [Lecture 2]...
+1.  [Lecture 2](./lecture2.do).
+1.  [Lecture 3](./lecture3.do).
 
 -------------------
 
