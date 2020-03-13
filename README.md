@@ -11,7 +11,7 @@
 1.  [Lecture 3](./lecture3.html).
 
 ### 数据 (stata dta文件)
-1.  [mus03data](./mus03data).
+1.  [mus03data](./mus03data.dta).
 
 ### 课件（pdf文件）:
 1.  [Lecture 0](./Lecture0.pdf).
