@@ -4,14 +4,20 @@
 1.  [Lecture 1](./lecture1.do).
 1.  [Lecture 2](./lecture2.do).
 1.  [Lecture 3](./lecture3.do).
+1.  [Lecture 4](./lecture4.do).
+1.  [Lecture 5](./lecture5.do).
 
 ### 代码指南（html文件）:
 1.  [Lecture 1](./lecture1.html).
 1.  [Lecture 2](./lecture2.html).
 1.  [Lecture 3](./lecture3.html).
+1.  [Lecture 4](./lecture4.html).
+1.  [Lecture 5](./lecture5.html).
 
 ### 数据 (stata dta文件)
 1.  [mus03data](./mus03data.dta).
+1.  [mus14data](./mus14data.dta).
+1.  [mus08psidextract](./mus08psidextract.dta).
 
 ### 课件（pdf文件）:
 1.  [Lecture 0](./Lecture0.pdf).
